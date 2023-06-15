@@ -1,5 +1,11 @@
 # @vercel/node
 
+## 2.15.2
+
+### Patch Changes
+
+- add tests to getBodyParser helper ([#10109](https://github.com/vercel/vercel/pull/10109))
+
 ## 2.15.1
 
 ### Patch Changes
